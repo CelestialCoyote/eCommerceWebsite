@@ -1,3 +1,16 @@
+body {
+    background-color: black;
+}
+
+section {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
 img {
     width: 100%;
+}
+
+p {
+    color: gray;
 }

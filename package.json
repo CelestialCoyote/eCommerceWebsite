@@ -2,10 +2,10 @@
   "name": "ecommercewebsite",
   "version": "1.0.0",
   "description": "eCommerce Website project for devCodeCamp",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "npm start ./src/index.js",
-    "dev": "./node_modules/.bin/nodemon ./src/index.js"
+    "start": "npm start ./src/app.js",
+    "dev": "./node_modules/.bin/nodemon ./src/app.js"
   },
   "author": "Paul Stearns",
   "license": "ISC",
