@@ -1,0 +1,14 @@
+{
+  "name": "ecommercewebsite",
+  "version": "1.0.0",
+  "description": "eCommerce Website project for devCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Stearns",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
