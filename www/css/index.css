@@ -2,6 +2,18 @@ body {
     background-color: black;
 }
 
+.navbar .navbar-brand {
+    color: lightgray;
+}
+
+.nav-link:hover {
+    color: darkgray;
+}
+
+.nav-link {
+    color: lightgray;
+}
+
 section {
     padding-top: 6%;
 }
@@ -28,4 +40,32 @@ p {
 
 form {
     padding-bottom: 15%;
+}
+
+.form-spacing {
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
+
+.contact-info-label {
+    background-color: black;
+    color: gray;
+}
+
+.contact-info {
+    background-color: gray;
+    border-color: navy;
+}
+
+.contact-info::placeholder {
+    color: navy;
+  }
+
+.contact-info:focus {
+    background-color: lightgray;
+}
+
+.submit-button {
+    background-color: darkgray;
+    color: navy;
 }
