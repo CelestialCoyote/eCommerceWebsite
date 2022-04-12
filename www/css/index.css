@@ -3,11 +3,18 @@ body {
 }
 
 section {
-    padding-top: 65px;
+    /*padding-top: 65px;*/
+    padding-top: 6%;
 }
 
 img {
     width: 100%;
+}
+
+h1 {
+    color: gray;
+    padding: 3% 0px;
+    text-align: center;
 }
 
 p {
