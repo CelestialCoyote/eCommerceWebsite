@@ -14,3 +14,8 @@ img {
 p {
     color: gray;
 }
+
+.productsPair {
+    display: flex;
+    flex-direction: row;
+}
